@@ -11,3 +11,7 @@
 ## Code 4:- Exploring Relationships
  ![image](https://github.com/user-attachments/assets/f0698c3b-41a8-42a5-a4e6-1813c0062e48)
 
+## Code 5:- Comparing Category Values
+ ![image](https://github.com/user-attachments/assets/2646e2a3-12c9-4cca-9ecc-450b2e3d7647)
+
+
