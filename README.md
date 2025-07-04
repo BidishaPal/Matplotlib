@@ -8,4 +8,6 @@
 ## Code 3:- Showing a Distribution
 ![image](https://github.com/user-attachments/assets/e2c6f383-6988-4c54-9033-0c8e9c96c590)
 
+## Code 4:- Exploring Relationships
+ ![image](https://github.com/user-attachments/assets/f0698c3b-41a8-42a5-a4e6-1813c0062e48)
 
